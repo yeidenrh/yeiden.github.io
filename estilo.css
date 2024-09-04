@@ -1,0 +1,31 @@
+body{
+background-color: aqua;
+}
+
+h1{
+    color: blueviolet;/*ponerle color a la letra*/
+    font-size: 35px;/*determinar el tamaño de la letra*/
+    font-family: sans-serif;/*para poner el tipode letra*/
+    font-weight: bold;/*para ponerle negrita*/
+    font-style: italic;/*para ponerle cursiva o normal*/
+    text-align: center;/*para centar el texto*/
+    text-decoration: underline;/* para subrayar*/
+}
+
+p{
+    color: rgb(177, 113, 236);
+    font-size: 25px;
+    font-family: serif;
+    text-align: justify;
+    line-height: 25px;/*determinar la altura de la linea de texto*/
+    letter-spacing: 5px;/*aumenta o disminuye el espacion entra las letras*/
+    word-spacing: 5px;/*define espacio entre las palabras*/
+}
+
+footer{
+    color: rgb(174, 240, 108);
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(168, 187, 187);
+    text-align: center;
+}
